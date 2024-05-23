@@ -3,15 +3,15 @@ import Navbar from "./Navbar";
 function Home() {
   return (
     <>
-      <div className="bg-[url('./assets/home-bg.jpg')] h-screen bg-cover bg-center bg-no-repeat">
+      <div className="bg-[url('./assets/home-bg.jpg')] h-screen bg-cover bg-center object-contain overflow-hidden bg-no-repeat">
         <Navbar />
-        <div className="flex items-center sm:mt-32 sm:ml-12 mt-11 ml-3">
+        <div className="flex items-center sm:mt-32 sm:ml-12 mt-24 ml-2">
           <h1 className="text-white sm:text-4xl font-bold text-xl sm:tracking-widest">
             Discover Games You Will Love
           </h1>
         </div>
-        <div className="flex flex-col sm:w-1/2 sm:ml-12 ml-3">
-          <p className="text-white font-medium mt-8">
+        <div className="flex flex-col w-1/2 sm:ml-12 ml-2">
+          <p className="text-white sm:font-medium mt-8">
             Welcome, adventures! Are you ready to conquer epic quests build
             thriving empires, or solve mind-bending puzzles? We're your one-stop
             shop for discovering incredible games.
