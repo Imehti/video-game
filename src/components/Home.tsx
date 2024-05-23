@@ -16,7 +16,7 @@ function Home() {
             thriving empires, or solve mind-bending puzzles? We're your one-stop
             shop for discovering incredible games.
           </p>
-          <span className="text-white"> So Let's Go!</span>
+          <span className="text-white font-medium"> So Let's Go!</span>
           <div className="mt-8">
             <button className="bg-blue text-white p-1 px-3 rounded-full w-44 py-2 flex justify-between items-center">
               Start Exploring
