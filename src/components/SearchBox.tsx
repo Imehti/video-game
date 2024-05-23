@@ -3,7 +3,7 @@ function SearchBox() {
     <>
       <div className="relative">
         <input
-          className="rounded-2xl bg-searchIcon sm:w-64 w-44 sm:pl-10 p-1 pl-8 text-sm sm:text-md font-mono"
+          className="rounded-2xl bg-searchIcon sm:w-64 w-36 sm:pl-10 p-1 pl-8 text-xs sm:text-md font-mono"
           type="text"
           placeholder="Discover New Games"
         />
