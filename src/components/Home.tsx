@@ -19,7 +19,7 @@ function Home() {
           <span className="text-white"> So Let's Go!</span>
           <div className="mt-8">
             <button className="bg-blue text-white p-1 px-3 rounded-full w-44 py-2 flex justify-between items-center">
-              Start Exploringn
+              Start Exploring
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
