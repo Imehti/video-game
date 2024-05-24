@@ -10,8 +10,8 @@ function Home() {
             Discover Games You Will Love
           </h1>
         </div>
-        <div className="flex flex-col w-1/2 sm:ml-12 ml-2">
-          <p className="text-white sm:font-medium mt-8">
+        <div className="flex flex-col sm:w-1/3 w-3/5 sm:ml-12 ml-2">
+          <p className="text-white font-light mt-8">
             Welcome, adventures! Are you ready to conquer epic quests build
             thriving empires, or solve mind-bending puzzles? We're your one-stop
             shop for discovering incredible games.
